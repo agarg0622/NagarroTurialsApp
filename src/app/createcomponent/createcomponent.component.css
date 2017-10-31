@@ -1,0 +1,112 @@
+ h2
+{
+  margin:0px;
+  font-size:37px;
+  color:#2E2E2E;
+}
+ p
+{
+  font-size:18px;
+  color:#2E2E2E;
+}
+ li
+{
+  list-style-type:none;
+  margin-top:10px;
+}
+ li #firstname
+{
+  width:44%;
+}
+ li #surname
+{
+  margin-left:2%;
+  width:44%;
+}
+ li input[type="text"]
+{
+  width:100%;
+  height:40px;
+  border-radius:5px;
+  padding-left:10px;
+  font-size:18px;
+  border:1px solid #BDBDBD;
+}
+ li input[type="password"]
+{
+  width:100%;
+  height:40px;
+  border-radius:5px;
+  padding-left:10px;
+  font-size:18px;
+  border:1px solid #BDBDBD;
+}
+ li select
+{
+  padding:4px;
+  float:left;
+}
+ li a
+{
+  margin-left:10px;
+  width:150px;
+  color:#045FB4;
+  text-decoration:none;
+  font-size:11px;
+  display: inline-block;
+  vertical-align: middle;
+  line-height:15px;
+}
+ li a:hover
+{
+  text-decoration:underline;
+}
+ li
+{
+  color:#2E2E2E;
+  font-size:18px;
+}
+ #terms
+{
+  color:#424242;
+  font-size:11px;
+}
+ #terms a
+{
+  display:inline;
+  margin:0px;
+}
+ li input[type="submit"]
+{
+  width:205px;
+  height:45px;
+  text-align:center;
+  font-size:19px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Freight Sans Bold', helvetica, arial, sans-serif !important;
+  font-weight: bold !important;
+  background: linear-gradient(#67ae55, #578843);
+  background-color: #69a74e;
+  box-shadow: inset 0 1px 1px #a4e388;
+  border-color: #3b6e22 #3b6e22 #2c5115;
+  border: 1px solid;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  text-shadow: 0 1px 2px rgba(0,0,0,.5);
+}
+ #create_page
+{
+  color:#424242;
+  font-size:13px;
+  font-weight:bold;
+}
+ #create_page a
+{
+  display:inline;
+  margin:0px;
+  font-size:13px;
+}
